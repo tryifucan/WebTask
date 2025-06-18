@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTask_Tests", "WebTask_Tests\WebTask_Tests.csproj", "{2E6E9507-9A27-4120-B340-18F47BA7CDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebTask_Framework", "WebTask_Framework\WebTask_Framework.csproj", "{FAD2C99E-5C52-42FE-8211-F0D8F048A65B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E6E9507-9A27-4120-B340-18F47BA7CDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6E9507-9A27-4120-B340-18F47BA7CDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6E9507-9A27-4120-B340-18F47BA7CDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6E9507-9A27-4120-B340-18F47BA7CDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD2C99E-5C52-42FE-8211-F0D8F048A65B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD2C99E-5C52-42FE-8211-F0D8F048A65B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD2C99E-5C52-42FE-8211-F0D8F048A65B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD2C99E-5C52-42FE-8211-F0D8F048A65B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E854425-4D16-4559-A327-C66A4E39A385}
+	EndGlobalSection
+EndGlobal
