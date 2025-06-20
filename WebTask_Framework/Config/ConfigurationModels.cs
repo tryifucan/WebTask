@@ -1,5 +1,4 @@
-﻿using OpenQA.Selenium.DevTools.V125.Audits;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 
 namespace Task_Framework.Config
 {
